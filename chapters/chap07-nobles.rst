@@ -63,7 +63,7 @@ This is kinda cool, but a king can also be unreasonably demanding.
 
 Lets look at the king.  Hit :kbd:`Enter` and you’ll see info about the
 state of his stuff. Our king owns 14 objects, mostly clothes,
-and has :guilabel:`meagre quarters`.  Rooms and item he 'needs' are
+and has :guilabel:`Meager Quarters`.  Rooms and item he 'needs' are
 in red, and things he has (but aren't good enough) are in yellow.
 Start building a sweet suite, and we'll come back to him later.
 
